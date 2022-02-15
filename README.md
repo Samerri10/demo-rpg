@@ -8,7 +8,7 @@ theoretical lists to get started
 
 ### classes
 
--warrier : HP growth 20 : highest damage reduction
+-warrior : HP growth 20 : highest damage reduction
 -wizard : HP growth 9 : uses magic
 -cleric : HP growth 14 : uses support magic
 -rogue : HP growth 14 : highest consistent melee/ranged damage
